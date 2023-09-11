@@ -4,7 +4,7 @@ Hooker can be integrated with Khulnasoft Console to deliver vulnerability and au
 You can configure the Khulnasoft Server to send a Webhook notification whenever a new vulnerability is found.
 Navigate to the **Image Scan Results Webhook** page, under the "Settings" menu.
 
-![Screenshot](img/webhook-integration.png)
+
 
 Click "Enable sending image scan results to webhook", and specify the URL of Hooker.
 Now, scan an image and look at the Hooker log files - you will see that Hooker have received an incoming message once scan is done,
