@@ -14,7 +14,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/khulnasoft-lab/go-jira v0.0.0-20230817162545-9cc5eaa28404
-	github.com/nats-io/nats-server/v2 v2.9.22
+	github.com/nats-io/nats-server/v2 v2.9.23
 	github.com/nats-io/nats.go v1.28.0
 	github.com/nats-io/nkeys v0.4.4
 	github.com/open-policy-agent/opa v0.56.0
