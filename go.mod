@@ -18,7 +18,7 @@ require (
 	github.com/nats-io/nats.go v1.28.0
 	github.com/nats-io/nkeys v0.4.4
 	github.com/open-policy-agent/opa v0.56.0
-	github.com/opencontainers/image-spec v1.1.0-rc4
+	github.com/opencontainers/image-spec v1.1.0-rc5
 	github.com/opsgenie/opsgenie-go-sdk-v2 v1.2.10
 	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.8.4
