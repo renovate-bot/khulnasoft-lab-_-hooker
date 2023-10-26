@@ -11,7 +11,7 @@ require (
 	github.com/aws/smithy-go v1.14.2
 	github.com/docker/docker v24.0.6+incompatible
 	github.com/ghodss/yaml v1.0.0
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.4.0
 	github.com/gorilla/mux v1.8.0
 	github.com/khulnasoft-lab/go-jira v0.0.0-20230817162545-9cc5eaa28404
 	github.com/nats-io/nats-server/v2 v2.9.22
